@@ -1,2 +1,2 @@
-def uppercase_string(input_string):
-    return input_string.upper()
+def uppercase_string(text):
+    return text.upper()
