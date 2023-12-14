@@ -1,0 +1,6 @@
+venv
+.idea
+*.рус
+.log
+.lock
+.tmp
